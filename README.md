@@ -9,8 +9,4 @@
   View <a href="https://weather-my-yc9gj66bq-harsh-rohillas-projects.vercel.app/">Live demo</a>.
  </p>
 
-## Setup
 
-```
-npm i && npm start
-```
